@@ -1,0 +1,8 @@
+C:\Users\MARION\Desktop\c#\test1\bin\Debug\test1.exe.config
+C:\Users\MARION\Desktop\c#\test1\bin\Debug\test1.exe
+C:\Users\MARION\Desktop\c#\test1\bin\Debug\test1.pdb
+C:\Users\MARION\Desktop\c#\test1\obj\Debug\test1.csproj.AssemblyReference.cache
+C:\Users\MARION\Desktop\c#\test1\obj\Debug\test1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARION\Desktop\c#\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+C:\Users\MARION\Desktop\c#\test1\obj\Debug\test1.exe
+C:\Users\MARION\Desktop\c#\test1\obj\Debug\test1.pdb
